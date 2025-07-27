@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+yt-dlp
+pydantic
+line-bot-sdk
+nest-asyncio
+python-dotenv
